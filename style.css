@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&display=swap');
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #021A49;
+    font-family: 'Jura', sans-serif;
+}
+.navbar-nav .nav-link:hover {
+    color: #FFD706!important;
+  }
+.section-1{
+    margin-top: 130px;
+}
+h6{
+    font-size: smaller;
+}
+.section-2{
+    margin-top: 70px;
+}
+.product{
+    margin-top: 100px;
+}
+.branding{
+    margin-top: 100px; 
+}
+.fullstack{
+    margin-top: 100px; 
+}
+.section-4{
+    margin-top: 70px;
+}
+.footer p:hover {
+    color: #FFD706!important;
+  }
+
